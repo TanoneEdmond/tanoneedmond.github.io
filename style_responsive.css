@@ -1,0 +1,187 @@
+.article1{
+	flex-direction: column;
+	border: none;
+}
+.tanone_e_patale_blog{
+	margin-top: 50px;
+}
+.tanone_e_patale_blog h1{
+	font-size: 20px;
+	background-color: rgb(255,104,32);
+	color: #ffffff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.article1_img, .article1_text{
+	width: 100%;
+}
+.autres_articles{
+	flex-direction: column;
+}
+article{
+	width: 100%;
+	margin-bottom: 3%;
+}
+article a{
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+}
+article img{
+	display: none;
+}
+article h2{
+	width: 100%;
+	margin-bottom: 15px;
+	border-bottom: 2px solid #ffffff;
+}
+header .tanone_e_patale_header_logo{
+	width: 40%;
+	margin-top: %;
+	margin-bottom: 1%;
+}
+.navbar_togle{
+	width: 26px;
+	height: 26px;
+	margin-top: 20%;
+}
+.hr{
+	display: none;
+}
+
+
+.formulaire_de_contact,
+.tanone_e_patale_body_aboutme1,
+.welcom_presentation,
+.tanone_e_patale_body_distance_tempsA{
+	flex-direction: column;
+}
+
+.formulaire_de_contact1,
+.formulaire_de_contact2,
+.tanone_e_patale_body_aboutme_photo,
+.tanone_e_patale_body_aboutme_text,
+.welcom_presentation_my_pictur
+{
+	width: 100%;
+}
+.tanone_e_patale_body_service{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.service_site_vitrine_ecommerce{
+	flex-direction: column;
+	width: 90%;
+	margin: auto;
+}
+.service_site_vitrine, .service_site_ecommerce, .service_marketing_digital{
+	width: 100%;
+}
+.service_site_vitrine img, .service_site_ecommerce img, .service_marketing_digital img{
+	width: 65%;
+}
+.tanone_e_patale_body_aboutme{
+	margin-bottom: 50px;
+	margin-top: 80px;
+}
+.aboutme_photo2{
+	display: block;
+}
+.tanone_e_patale_body_welcom{
+	margin-top: 110px;
+}
+.welcom_presentation_text{
+	width: 100%;
+	text-align: center;
+}
+.welcom_presentation h1{
+	margin-top: 0;
+}
+#welcom_p2{
+	margin-top: 70px;
+}
+#welcom_p2{
+	display: none;
+}
+.welcom_presentation_text #welcom_p2{
+	font-size: 20px;
+}
+.photos23{
+	display: block;
+	border-bottom: 1px solid;
+	border-top: 1px solid;
+}
+.photos235{
+	display: block;
+	overflow-x: auto;
+}
+.photos237{
+	display: flex;
+	justify-content: space-around;
+	width: 660px;
+	margin-top: 15px;
+}
+.photos237 img{
+	width: 200px;
+	height: 220px;
+	border-radius: 15px;
+}
+#welcom_p22{
+	font-size: 20px;
+	margin-left: 10px;
+	margin-top: 0;
+	margin-bottom: 15px;
+}
+#welcom_p22 mark{
+	background-color: #ffffff;
+	color: rgb(34,177,76);
+	font-weight: bold;
+}
+.tanone_e_patale_body_distance, 
+.tanone_e_patale_body_temps{
+	width: 90%;
+	margin: auto;
+}
+.tanone_e_patale_body_distance img, 
+.tanone_e_patale_body_temps img{
+	width: 90%;
+	margin: auto;
+}
+.tanone_e_patale_body_distance_temps{
+	background-color: rgb(200,200,200);
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.monde1,
+.orloge1{
+	display: block;
+}
+.monde2,
+.orloge2{
+	display: none;
+}
+.votre_image p{
+	font-size: 19px;
+	margin: 30px;
+}
+.votre_image h1{
+	font-size: 27px;
+}
+.tanone_e_patale_apropos_contact1{
+	width: 100%;
+}
+.tanone_e_patale_body_distance_temps h1{
+	margin-bottom: 60px;
+}
+
+footer p{
+	padding-left: 1%;
+	padding-right: 1%;
+}
+.footer{
+	width: 90%;
+	flex-direction: column;
+}
+.menu_footer, .contact_footer, .reseaux_sociaux_footer{
+	width: 100%;
+}
